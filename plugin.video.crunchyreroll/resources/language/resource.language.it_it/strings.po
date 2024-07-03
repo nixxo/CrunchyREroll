@@ -1,0 +1,298 @@
+# Kodi Media Center language file
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@kodi.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2024-07-03 15:13+0200\n"
+"Last-Translator: \n"
+"Language-Team: nixxo\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+# Crunchyroll Settings
+msgctxt "#30001"
+msgid "Username"
+msgstr "Username"
+
+msgctxt "#30002"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "#30003"
+msgid "Synchronize play time progress"
+msgstr "Sincronizza progressi di visione"
+
+msgctxt "#30004"
+msgid "Configure InputStream Adaptive"
+msgstr "Configura InputStream Adaptive"
+
+msgctxt "#30020"
+msgid "Subtitle Language"
+msgstr "Lingua Sottotitoli"
+
+msgctxt "#30021"
+msgid "English (US)"
+msgstr "Inglese (US)"
+
+msgctxt "#30022"
+msgid "English (UK)"
+msgstr "Inglese (UK)"
+
+msgctxt "#30023"
+msgid "Spanish"
+msgstr "Spagnolo"
+
+msgctxt "#30024"
+msgid "Spanish (Spain)"
+msgstr "Spagnolo (Spagna)"
+
+msgctxt "#30025"
+msgid "Portuguese (Brazil)"
+msgstr "Portoghese (Brasile)"
+
+msgctxt "#30026"
+msgid "Portuguese (Portugal)"
+msgstr "Portoghese (Portogallo)"
+
+msgctxt "#30027"
+msgid "French (France)"
+msgstr "Francese (Francia)"
+
+msgctxt "#30028"
+msgid "German"
+msgstr "Tedesco"
+
+msgctxt "#30029"
+msgid "Arabic"
+msgstr "Arabo"
+
+msgctxt "#30030"
+msgid "Italian"
+msgstr "Italiano"
+
+msgctxt "#30031"
+msgid "Russian"
+msgstr "Russo"
+
+msgctxt "#30032"
+msgid "Tamil"
+msgstr "Tamil"
+
+msgctxt "#30033"
+msgid "Hindi"
+msgstr "Hindi"
+
+# Crunchyroll Menue
+msgctxt "#30040"
+msgid "Queue"
+msgstr "Coda"
+
+msgctxt "#30041"
+msgid "Search"
+msgstr "Ricerca"
+
+msgctxt "#30042"
+msgid "History"
+msgstr "Cronologia"
+
+msgctxt "#30043"
+msgid "Random"
+msgstr "Casuale"
+
+msgctxt "#30044"
+msgid "Next page"
+msgstr "Prossima Pagina"
+
+msgctxt "#30045"
+msgid "Goto series"
+msgstr "Vai a serie"
+
+msgctxt "#30046"
+msgid "Goto season"
+msgstr "Vai a stagione"
+
+msgctxt "#30050"
+msgid "Anime"
+msgstr "Anime"
+
+msgctxt "#30051"
+msgid "Drama"
+msgstr "Drama"
+
+msgctxt "#30052"
+msgid "Popular"
+msgstr "Popolari"
+
+msgctxt "#30053"
+msgid "Simulcasts"
+msgstr "Simulcast"
+
+msgctxt "#30054"
+msgid "Updated"
+msgstr "Aggiornati"
+
+msgctxt "#30055"
+msgid "Alphabetical"
+msgstr "Alfabetico"
+
+msgctxt "#30056"
+msgid "Genres"
+msgstr "Generi"
+
+msgctxt "#30057"
+msgid "Seasons"
+msgstr "Stagioni"
+
+msgctxt "#30058"
+msgid "Featured"
+msgstr "Raccomandati"
+
+msgctxt "#30059"
+msgid "Newest"
+msgstr "Novità"
+
+# Crunchyroll Messages
+msgctxt "#30060"
+msgid "Login failed"
+msgstr "Login fallito"
+
+msgctxt "#30061"
+msgid "An error occurred"
+msgstr "Errore generico"
+
+msgctxt "#30062"
+msgid "You need to be logged in"
+msgstr "Devi aver effettuato il login"
+
+msgctxt "#30063"
+msgid "You need to be a premium member"
+msgstr "Devi essere un membro premium"
+
+msgctxt "#30064"
+msgid "Failed to play video"
+msgstr "Errore nella riproduzione del video"
+
+msgctxt "#30065"
+msgid "Do you want to continue watching at %s%%?"
+msgstr "Vuoi riprendere la visione da %s%%?"
+
+msgctxt "#30066"
+msgid "If the video does not start wait 30 seconds for the fallback to start."
+msgstr "Se il video non parte, attendi 30 secondi per la riproduzione di riserva."
+
+msgctxt "#30067"
+msgid "Watchlist"
+msgstr "Cronologia"
+
+msgctxt "#30068"
+msgid "Crunchylist"
+msgstr "Crunchylist"
+
+msgctxt "#30069"
+msgid "My lists"
+msgstr "Mie liste"
+
+msgctxt "#30070"
+msgid "Paging size"
+msgstr "Dimensione pagina"
+
+msgctxt "#30071"
+msgid "Resolution"
+msgstr "Resoluzione"
+
+msgctxt "#30072"
+msgid "Identification"
+msgstr "Identificazione"
+
+msgctxt "#30073"
+msgid "Localization"
+msgstr "Localizzazione"
+
+msgctxt "#30074"
+msgid "Plugin options"
+msgstr "Opzioni Plugin"
+
+msgctxt "#30075"
+msgid "Skipping options (when possible)"
+msgstr "Skipping options (when possible)"
+
+msgctxt "#30076"
+msgid "Skip intro"
+msgstr "Salta intro"
+
+msgctxt "#30077"
+msgid "Skip ending"
+msgstr "Salta ending"
+
+msgctxt "#30078"
+msgid "Skip recap of past episodes"
+msgstr "Salta riassunto episodi precedenti"
+
+msgctxt "#30079"
+msgid "Skip preview of the next episode"
+msgstr "Salta anticipazioni prossimi episodi"
+
+msgctxt "#30080"
+msgid "Intro skipped"
+msgstr "Intro saltata"
+
+msgctxt "#30081"
+msgid "Ending skipped"
+msgstr "Ending saltata"
+
+msgctxt "#30082"
+msgid "Recap skipped"
+msgstr "Riassunto saltato"
+
+msgctxt "#30083"
+msgid "Preview skipped"
+msgstr "Anticipazioni saltate"
+
+msgctxt "#30084"
+msgid "Audio track"
+msgstr "Traccia audio"
+
+msgctxt "#30085"
+msgid "Original"
+msgstr "Originale"
+
+msgctxt "#30086"
+msgid "Do you want to skip this moment"
+msgstr "Vuoi saltare questa parte"
+
+msgctxt "#30087"
+msgid "(Re)install Widevine CDM..."
+msgstr "(Re)installa Widevine CDM..."
+
+msgctxt "#30088"
+msgid "Cache management"
+msgstr "Gestione Cache"
+
+msgctxt "#30089"
+msgid "Clear subtitles cache"
+msgstr "Pulisci file temporanei dei sottotitoli"
+
+msgctxt "#30090"
+msgid "Basic Auth configuration"
+msgstr "Configurazione Autenticazione"
+
+msgctxt "#30091"
+msgid "Url to gather infos regarding basic auth"
+msgstr "Url per ottenere informazioni sull'autenticazione"
+
+msgctxt "#30092"
+msgid "Url"
+msgstr "Url"
+
+msgctxt "#30093"
+msgid "Clear Basic Auth cache"
+msgstr "Pulisci file temporanei di autenticazione"
+
+msgctxt "#30094"
+msgid "Automatically play next episode"
+msgstr "Riproduci automaticamente episodio succerssivo"

@@ -16,12 +16,15 @@
         <summary lang="en_GB">Watch videos from Crunchyroll.com!</summary>
         <summary lang="de_DE">Schaue Videos von Crunchyroll.com!</summary>
         <summary lang="fr_FR">Regardez les vidéos de Crunchyroll.com!</summary>
+        <summary lang="it_IT">Guarda i video di Crunchyroll.com!</summary>
         <description lang="en_GB">Crunchyroll is an online video service and community that offers full-length episodes and movies of the very best in Japanese anime and Asian entertainment.</description>
         <description lang="de_DE">Crunchyroll ist ein online Video-Streaming-Dienst und bietet Zugang zu vollen Episoden und Filmen der besten japanischen Anime und asiatischer Unterhaltung.</description>
         <description lang="fr_FR">Crunchyroll est un service de vidéo en ligne et une communauté qui offres des épisodes et des filmes en entier, issue du meilleur de l'animation japonaise et du divertissement asiatique.</description>
+        <description lang="it_IT">Crunchyroll è un servizio di streaming e una comunità online che offre il meglio di serie e film dell'animazione Giapponese e Asiatica.</description>
         <disclaimer lang="en_GB">WARNING: You MUST be a PREMIUM member to use this Plugin</disclaimer>
         <disclaimer lang="de_DE">HINWEIS: Du MUSST PREMIUM Mitglied sein um dieses Plugin zu benutzen</disclaimer>
         <disclaimer lang="fr_FR">ATTENTION: Vous DEVEZ être un utilisateur PREMIUM pour pouvoir utiliser ce plugin</disclaimer>
+        <disclaimer lang="it_IT">ATTENZIONE: Serve un accont PREMIUM per usufruire dei contenuti tramite il plugin</disclaimer>
         <news>
 ${CHANGELOG}
         </news>
